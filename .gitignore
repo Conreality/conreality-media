@@ -1,6 +1,9 @@
 # macOS
 .DS_Store
 
+#Windows
+.ini
+
 # Editor backup files
 *~
 
